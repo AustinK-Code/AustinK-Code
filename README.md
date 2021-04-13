@@ -1,6 +1,6 @@
 ### Hi there, I'm Austin - :wave:
 ## I'm a :desktop_computer::three_button_mouse: Developer
-- :seedling: I’m currently expanding my knowledge of object-oriented programming and Japanese
+- :seedling: I’m currently expanding my knowledge of object-oriented programming
 - :handshake: I’m looking to collaborate with other developers from different backgrounds
 - :goal_net: 2021 Goals: Contribute more to projects and flesh out my github
 - :zap: Fun fact: I love brewing beer 🍻
