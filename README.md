@@ -2,7 +2,7 @@
 ## I'm a :desktop_computer: 🖱️ Developer
 - :seedling: I’m currently expanding my knowledge of object-oriented programming
 - :handshake: I’m looking to collaborate with other developers from different backgrounds
-- :goal_net: 2021 Goals: Contribute more to projects and flesh out my github
+- :goal_net: 2022 Goals: Work on my Bachelors
 - :zap: Fun fact: I love brewing beer 🍻
 
 ### Connect with me:
